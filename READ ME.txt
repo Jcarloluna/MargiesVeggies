@@ -1,0 +1,9 @@
+MYSQL CONNECTION
+User: root
+Password: lunafamily
+host: localhost
+
+
+INSTALLATION PACKAGE
+-pip install PyQt5
+-pip install mysql-connector-python
